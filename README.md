@@ -3,7 +3,7 @@
 Dbtester is a small tool to run several kinds of test against a database, like connectivity and performance test.
 
 
-# Notes for using Bitbucket git service
+# Notes for using git service
 
 I'm new to programming and this is my first project, so I put some usage hints here.
 
