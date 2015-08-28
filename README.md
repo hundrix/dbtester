@@ -1,22 +1,22 @@
 # Description
 
-dbtester is a small program to run several kinds of test again a database, for example, connectivity and performance test.
+Dbtester is a small tool to run several kinds of test against a database, like connectivity and performance test.
 
 
 # Notes for using Bitbucket git service
 
-I'm new to programming and this is my first project on Bitbucket, so I put some usage hints here.
+I'm new to programming and this is my first project, so I put some usage hints here.
 
 ## Push to Bitbucket
 
-Set up Git on your machine if you haven't already.
+Set up Git on local machine 
 
 	mkdir /path/to/your/project
 	cd /path/to/your/project
 	git init
 	git remote add bitbucket https://username@bitbucket.org/username/dbtester.git
 
-Create your first file, commit, and push
+Create first file, commit, and push
 
 	git add .
 	git commit -m 'Initial commit with contributors'
