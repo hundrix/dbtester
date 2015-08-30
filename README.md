@@ -26,3 +26,9 @@ Create first file, commit, and push
 
 	git remote add github https://github.com/username/dbtester
 	git push -u github master
+
+## Setup a remote repository
+
+	git remote add bitbucket https://username@bitbucket.org/username/dbtester.git
+	git fetch bitbucket
+	git pull bitbucket master
